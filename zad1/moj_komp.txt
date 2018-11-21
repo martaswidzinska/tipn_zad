@@ -1,0 +1,4 @@
+pojemność dysku: 121 GB
+ilość pamięci RAM: 8GB 1600 MHz DDR3
+rodzaj i prędkość procesora: 1,8 GHz Intel Core i5
+system: 64-bitowy
