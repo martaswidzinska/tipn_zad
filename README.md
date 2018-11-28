@@ -1,1 +1,0 @@
-# tipn_zad
